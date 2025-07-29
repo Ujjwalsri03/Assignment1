@@ -1,12 +1,34 @@
-# React + Vite
+# 🏥 SmartCare – Responsive Hospital Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SmartCare is a modern, responsive hospital portal built using React.js and Material UI. It showcases key hospital features, testimonials, and a contact form with a clean and user-friendly design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔷 Hero section with mission and Call-To-Action
+- 💡 Feature cards (24x7 Emergency, Expert Doctors, etc.)
+- 💬 Testimonials carousel (placeholder-ready)
+- 📩 Contact form with validation and alert
+- 📱 Fully responsive layout for all screen sizes
+- 🧭 Routing using React Router
+- 🧱 Reusable components for clean code structure
+- 🎨 Styled with Material UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Material UI**
+- **React Router DOM**
+- **Vite** (for blazing-fast development)
+
+---
+
+
+
+
